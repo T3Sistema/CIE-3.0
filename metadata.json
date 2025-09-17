@@ -1,0 +1,7 @@
+{
+  "name": "CIE 3.0",
+  "description": "CIE 3.0",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
